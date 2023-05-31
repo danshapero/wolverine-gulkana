@@ -1,2 +1,2 @@
 # Icepack
-# Catch all for icepack and related code
+Catch all for icepack and related code
